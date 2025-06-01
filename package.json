@@ -1,0 +1,12 @@
+{
+  "name": "discord-truth-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot hosted on Glitch",
+  "main": "bot.py",
+  "scripts": {
+    "start": "python3 bot.py"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
